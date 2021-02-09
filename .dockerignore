@@ -1,0 +1,11 @@
+.idea/
+*.iml
+
+**/node_modules/
+client/build/
+readme-resources/
+readme.md
+package-lock.json
+
+*.bin
+*.abi
